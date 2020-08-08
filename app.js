@@ -42,3 +42,5 @@ rl.on("close", () => {
     });
     console.log(rankingStrings);
 });
+
+//ランキングの実装完了
